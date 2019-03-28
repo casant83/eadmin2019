@@ -24,7 +24,7 @@ public class RepositorioDocumentoEnLista implements RepositorioDocumento {
 	@Override
 	public void modificarDocumento(Documento documento) {
 		if(!documentos.contains(documento)) {
-			throw new AdministracionElectronicaException("El documento no existe, no se puede borrar");
+			throw new AdministracionElectronicaException("El documento no existe, no se puede modificar");
 		}
 		documentos.set(documentos.indexOf(documento), documento);
 	}
