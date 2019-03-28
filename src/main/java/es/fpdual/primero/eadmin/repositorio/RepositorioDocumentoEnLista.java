@@ -16,7 +16,7 @@ public class RepositorioDocumentoEnLista implements RepositorioDocumento {
 	@Override
 	public void altaDocumento(Documento documento) {
 		if(documentos.contains(documento)) {
-			throw new AdministracionElectronicaException("El documento ya existe ");
+			throw new AdministracionElectronicaException("El documento ya existe");
 		}
 		documentos.add(documento);
 	}
@@ -24,7 +24,7 @@ public class RepositorioDocumentoEnLista implements RepositorioDocumento {
 	@Override
 	public void modificarDocumento(Documento documento) {
 		if(!documentos.contains(documento)) {
-			throw new AdministracionElectronicaException("El documento no existe");
+			throw new AdministracionElectronicaException("El documento no existe, no se puede borrar");
 		}
 		documentos.set(documentos.indexOf(documento), documento);
 	}
