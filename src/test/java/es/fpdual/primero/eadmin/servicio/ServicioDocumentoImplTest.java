@@ -52,7 +52,7 @@ public class ServicioDocumentoImplTest {
 	public void deberiaAlmacenarUnDocumento(){
 		when(this.repositorioDocumento.getSiguienteId()).thenReturn(22);
 		//está incompleto, porque harán falta los spy(y vete tú a saber qué es eso) 
-		//resultado = this.servicioDocumento.altaDocumento(documento);
+		final Documento resultado = this.servicioDocumento.altaDocumento(documento);
 		
 	}
 }
