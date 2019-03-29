@@ -2,6 +2,7 @@ package es.fpdual.primero.eadmin.repositorio;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Repository;
 
@@ -19,6 +20,7 @@ public class RepositorioDocumentoEnLista implements RepositorioDocumento {
 			throw new AdministracionElectronicaException("El documento ya existe");
 		}
 		documentos.add(documento);
+		System.out.println("Documento "+documento.getNombre()+" almacenado correctamente");
 	}
 
 	@Override
@@ -27,30 +29,35 @@ public class RepositorioDocumentoEnLista implements RepositorioDocumento {
 			throw new AdministracionElectronicaException("El documento no existe, no se puede modificar");
 		}
 		documentos.set(documentos.indexOf(documento), documento);
+		
 	}
 
 	@Override
-	public void eliminarDocumento(int codigoDocumento) {
-		final Documento documentoAEliminar = new Documento(codigoDocumento, null, null, null, null);
-		final int indice = documentos.indexOf(documentoAEliminar);
-		if(!documentos.contains(documentoAEliminar)) {
-		}
-		documentos.remove(indice);
-		
+	public void eliminarDocumento(int id) {
+		//Solucion1
+		Documento documentoAEliminar = new Documento(id, null, null, null, null);
+	
 		//Solucion2
-		documentoAEliminar = documentos.stream().filter(d->d.getId().intValue == codigoDocumento);
+//		documentoAEliminar = documentos.stream().filter(d->d.getId() == id).findAny().orElse(null);
+		
+		final int indice = documentos.indexOf(documentoAEliminar);
+		if (indice >= 0) {
+		documentos.remove(indice);
+		}
 	}
 
 	@Override
 	public List<Documento> obtenerTodosDocumentos() {
-		// TODO Auto-generated method stub
-		return null;
+		//return this.documentos; -> daría acceso a la lista en si, pudiendo borrar y demás, así que hacemos una copia:
+		return this.documentos.stream().collect(Collectors.toList());
 	}
 
 	@Override
 	public int getSiguienteId() {
-		// TODO Auto-generated method stub
-		return 0;
+		if (documentos.isEmpty()) {
+			return 1;
+		}
+		return documentos.get(documentos.size()-1).getId() +1;
 	}
 
 }
