@@ -1,6 +1,9 @@
 package es.fpdual.primero.eadmin.controlador;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -26,6 +29,10 @@ public class ControladorDocumento {
 		return this.servicioDocumento.altaDocumento(documentoAInsertar);
 	}
 	
-	
+	@GetMapping("/documentos")
+	public List<Documento> obtenerTodosDocumentos() {
+		
+		return this.servicioDocumento.obtenerTodosDocumentos();
+	}
 	
 }
