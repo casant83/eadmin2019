@@ -16,4 +16,6 @@ public interface RepositorioDocumento {
 
 	public int getSiguienteId();
 	
+	public Documento obtenerDocumentoPorId(int codigoDocumento);
+	
 }

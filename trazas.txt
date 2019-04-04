@@ -1,0 +1,52 @@
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Thu Apr 04 12:38:28 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Thu Apr 04 12:38:37 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 3
+ NOMBRE: PEPITO
+ USUARIO: usuario 8
+ FECHA: Thu Apr 04 12:38:46 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_NOMINA
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Thu Apr 04 12:48:27 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: PEPITO
+ USUARIO: usuario 8
+ FECHA: Thu Apr 04 12:48:35 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_NOMINA
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 3
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Thu Apr 04 12:48:38 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************

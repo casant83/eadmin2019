@@ -1,0 +1,58 @@
+2019-04-04 12:38:18,975  INFO   [EadminApplication] inicio 
+2019-04-04 12:38:22,008  INFO   [EadminApplication] fin 
+2019-04-04 12:38:28,516  INFO   [RepositorioDocumentoEnLista] Documento tipo: DOCUMENTO_PADRON 
+2019-04-04 12:38:28,516  ERROR  [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:38:28,516  ERROR  [RepositorioDocumentoEnLista] DOCUMENTO CREADO CORRECTAMENTE 
+2019-04-04 12:38:28,516  ERROR  [RepositorioDocumentoEnLista]  ID: 1 
+2019-04-04 12:38:28,516  ERROR  [RepositorioDocumentoEnLista]  NOMBRE: JAIMITO 
+2019-04-04 12:38:28,516  ERROR  [RepositorioDocumentoEnLista]  USUARIO: usuario 9 
+2019-04-04 12:38:28,517  ERROR  [RepositorioDocumentoEnLista]  FECHA: Thu Apr 04 12:38:28 CEST 2019 
+2019-04-04 12:38:28,518  ERROR  [RepositorioDocumentoEnLista]  TIPO DOCUMENTO: DOCUMENTO_PADRON 
+2019-04-04 12:38:28,518  ERROR  [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:38:37,968  INFO   [RepositorioDocumentoEnLista] Documento tipo: DOCUMENTO_CONTABLE 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista] DOCUMENTO CREADO CORRECTAMENTE 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista]  ID: 2 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista]  NOMBRE: JUANITO 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista]  USUARIO: usuario 7 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista]  FECHA: Thu Apr 04 12:38:37 CEST 2019 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista]  TIPO DOCUMENTO: DOCUMENTO_CONTABLE 
+2019-04-04 12:38:37,968  TRACE  [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:38:46,300  INFO   [RepositorioDocumentoEnLista] Documento tipo: DOCUMENTO_NOMINA 
+2019-04-04 12:38:46,300  WARN   [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:38:46,300  WARN   [RepositorioDocumentoEnLista] DOCUMENTO CREADO CORRECTAMENTE 
+2019-04-04 12:38:46,300  WARN   [RepositorioDocumentoEnLista]  ID: 3 
+2019-04-04 12:38:46,300  WARN   [RepositorioDocumentoEnLista]  NOMBRE: PEPITO 
+2019-04-04 12:38:46,300  WARN   [RepositorioDocumentoEnLista]  USUARIO: usuario 8 
+2019-04-04 12:38:46,300  WARN   [RepositorioDocumentoEnLista]  FECHA: Thu Apr 04 12:38:46 CEST 2019 
+2019-04-04 12:38:46,300  WARN   [RepositorioDocumentoEnLista]  TIPO DOCUMENTO: DOCUMENTO_NOMINA 
+2019-04-04 12:38:46,301  WARN   [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:48:15,029  INFO   [EadminApplication] inicio 
+2019-04-04 12:48:18,352  INFO   [EadminApplication] fin 
+2019-04-04 12:48:27,580  INFO   [RepositorioDocumentoEnLista] Documento tipo: DOCUMENTO_CONTABLE 
+2019-04-04 12:48:27,580  TRACE  [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:48:27,580  TRACE  [RepositorioDocumentoEnLista] DOCUMENTO CREADO CORRECTAMENTE 
+2019-04-04 12:48:27,580  TRACE  [RepositorioDocumentoEnLista]  ID: 1 
+2019-04-04 12:48:27,580  TRACE  [RepositorioDocumentoEnLista]  NOMBRE: JUANITO 
+2019-04-04 12:48:27,581  TRACE  [RepositorioDocumentoEnLista]  USUARIO: usuario 7 
+2019-04-04 12:48:27,581  TRACE  [RepositorioDocumentoEnLista]  FECHA: Thu Apr 04 12:48:27 CEST 2019 
+2019-04-04 12:48:27,581  TRACE  [RepositorioDocumentoEnLista]  TIPO DOCUMENTO: DOCUMENTO_CONTABLE 
+2019-04-04 12:48:27,581  TRACE  [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:48:35,069  INFO   [RepositorioDocumentoEnLista] Documento tipo: DOCUMENTO_NOMINA 
+2019-04-04 12:48:35,069  WARN   [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:48:35,069  WARN   [RepositorioDocumentoEnLista] DOCUMENTO CREADO CORRECTAMENTE 
+2019-04-04 12:48:35,069  WARN   [RepositorioDocumentoEnLista]  ID: 2 
+2019-04-04 12:48:35,069  WARN   [RepositorioDocumentoEnLista]  NOMBRE: PEPITO 
+2019-04-04 12:48:35,069  WARN   [RepositorioDocumentoEnLista]  USUARIO: usuario 8 
+2019-04-04 12:48:35,070  WARN   [RepositorioDocumentoEnLista]  FECHA: Thu Apr 04 12:48:35 CEST 2019 
+2019-04-04 12:48:35,070  WARN   [RepositorioDocumentoEnLista]  TIPO DOCUMENTO: DOCUMENTO_NOMINA 
+2019-04-04 12:48:35,070  WARN   [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:48:38,643  INFO   [RepositorioDocumentoEnLista] Documento tipo: DOCUMENTO_PADRON 
+2019-04-04 12:48:38,643  ERROR  [RepositorioDocumentoEnLista] *********************************** 
+2019-04-04 12:48:38,643  ERROR  [RepositorioDocumentoEnLista] DOCUMENTO CREADO CORRECTAMENTE 
+2019-04-04 12:48:38,643  ERROR  [RepositorioDocumentoEnLista]  ID: 3 
+2019-04-04 12:48:38,644  ERROR  [RepositorioDocumentoEnLista]  NOMBRE: JAIMITO 
+2019-04-04 12:48:38,644  ERROR  [RepositorioDocumentoEnLista]  USUARIO: usuario 9 
+2019-04-04 12:48:38,644  ERROR  [RepositorioDocumentoEnLista]  FECHA: Thu Apr 04 12:48:38 CEST 2019 
+2019-04-04 12:48:38,644  ERROR  [RepositorioDocumentoEnLista]  TIPO DOCUMENTO: DOCUMENTO_PADRON 
+2019-04-04 12:48:38,644  ERROR  [RepositorioDocumentoEnLista] *********************************** 
