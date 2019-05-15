@@ -11,6 +11,11 @@ public class Usuario {
 		this.cargo = cargo;
 	}
 
+	@SuppressWarnings("unused")
+	private Usuario(Integer id) { // NOSONAR myBatis
+		this(id, null, null);
+	}
+
 	public int getId() {
 		return id;
 	}
@@ -23,7 +28,6 @@ public class Usuario {
 		return cargo;
 	}
 
-
 	@Override
 	public boolean equals(Object object) {
 
@@ -34,6 +38,7 @@ public class Usuario {
 		}
 		return false;
 	}
+
 	@Override
 	public int hashCode() {
 		return this.id;

@@ -1,12 +1,13 @@
 package es.fpdual.primero.eadmin.modelo;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 public abstract class AdministracionElectronicaBase {
 	protected int id;
 	protected String nombre;
 	protected Usuario usuario;
-	protected Date fechaCreacion;
+	protected LocalDate fechaCreacion;
 	
 
 	public int getId() {
@@ -21,7 +22,7 @@ public abstract class AdministracionElectronicaBase {
 		return usuario;
 	}
 
-	public Date getFechaCreacion() {
+	public LocalDate getFechaCreacion() {
 		return fechaCreacion;
 	}
 	

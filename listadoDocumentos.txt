@@ -1,21 +1,7 @@
 -----------------------------------------------
 Id: 1
-Nombre: JUANITO
-Fecha: Thu Apr 04 12:48:27 CEST 2019
-Tipo Documento: DOCUMENTO_CONTABLE
-Usuario: usuario 7
------------------------------------------------
------------------------------------------------
-Id: 2
-Nombre: PEPITO
-Fecha: Thu Apr 04 12:48:35 CEST 2019
-Tipo Documento: DOCUMENTO_NOMINA
-Usuario: usuario 8
------------------------------------------------
------------------------------------------------
-Id: 3
 Nombre: JAIMITO
-Fecha: Thu Apr 04 12:48:38 CEST 2019
+Fecha: Tue Apr 09 13:51:23 CEST 2019
 Tipo Documento: DOCUMENTO_PADRON
 Usuario: usuario 9
 -----------------------------------------------

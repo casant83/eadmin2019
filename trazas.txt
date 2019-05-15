@@ -50,3 +50,327 @@ DOCUMENTO CREADO CORRECTAMENTE
  FECHA: Thu Apr 04 12:48:38 CEST 2019
  TIPO DOCUMENTO: DOCUMENTO_PADRON
 ***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 11:49:46 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: PEPITO
+ USUARIO: usuario 8
+ FECHA: Fri Apr 05 11:49:51 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_NOMINA
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 3
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Fri Apr 05 11:49:56 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Fri Apr 05 11:52:58 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: PEPITO
+ USUARIO: usuario 8
+ FECHA: Fri Apr 05 11:53:02 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_NOMINA
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 3
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 11:53:07 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 11:55:34 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: PEPITO
+ USUARIO: usuario 8
+ FECHA: Fri Apr 05 11:55:38 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_NOMINA
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 11:58:33 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: PEPITO
+ USUARIO: usuario 8
+ FECHA: Fri Apr 05 11:58:37 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_NOMINA
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 3
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Fri Apr 05 11:58:42 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 4
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Fri Apr 05 12:09:27 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 5
+ NOMBRE: PEPITO
+ USUARIO: usuario 8
+ FECHA: Fri Apr 05 12:09:32 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_NOMINA
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 6
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 12:09:35 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 7
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 12:09:56 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 12:10:28 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Fri Apr 05 12:17:23 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Fri Apr 05 12:17:30 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Tue Apr 09 08:54:57 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Tue Apr 09 08:56:56 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Tue Apr 09 08:57:59 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Tue Apr 09 08:59:34 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JUANITO
+ USUARIO: usuario 7
+ FECHA: Tue Apr 09 09:01:20 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_CONTABLE
+***********************************
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 2
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 09:01:25 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 12:02:24 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+inicio
+fin
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 12:58:17 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:00:22 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:02:08 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:06:47 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+inicio
+fin
+inicio
+fin
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:34:28 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:36:09 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:45:44 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:46:58 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
+inicio
+fin
+***********************************
+DOCUMENTO CREADO CORRECTAMENTE
+ ID: 1
+ NOMBRE: JAIMITO
+ USUARIO: usuario 9
+ FECHA: Tue Apr 09 13:51:23 CEST 2019
+ TIPO DOCUMENTO: DOCUMENTO_PADRON
+***********************************
